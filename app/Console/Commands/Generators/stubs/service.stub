@@ -1,0 +1,10 @@
+<?php
+
+namespace App\Services\Impls;
+
+use App\Services\%%CLASS%%;
+
+class %%CLASS%%Impl extends GenericServiceImpl implements %%CLASS%% {
+    public function method() {
+    }
+}
